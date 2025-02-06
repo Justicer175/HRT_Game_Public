@@ -1,4 +1,4 @@
-# AMbulanta doktorice Zdravke
+# Ambulanta doktorice Zdravke
 A children's game developed for HRT during my time at Gamechuck, designed to provide a fun and educational experience for young players.
 
 # Gameplay:
